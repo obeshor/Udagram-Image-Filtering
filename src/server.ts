@@ -55,12 +55,7 @@ const isImageUrl = require('is-image-url');
       console.log("Error in filterImageFromURL " + error)
       res.status(422).send(`image URL could not be processed, verify your URL`)
     })
-    
    
-    
-    
-  
-
   } );
 
   //! END @TODO1
