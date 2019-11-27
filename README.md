@@ -6,7 +6,3 @@ Udagram is a simple cloud application developed alongside the Udacity Cloud Engi
 
 ### Screenshots
 ![Gameplay Screenshot](./deployment_screenshots/MyScreenshot.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> dev
